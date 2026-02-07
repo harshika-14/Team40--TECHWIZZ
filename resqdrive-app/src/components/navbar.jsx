@@ -9,10 +9,10 @@ const Navbar = () => {
       </Link>
 
       <ul className="nav-links">
-        <li><a href="">Home</a></li>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#working">How It Works</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="hero.jsx">Home</a></li>
+        <li><a href="">Features</a></li>
+        <li><a href="">How It Works</a></li>
+        <li><a href="">Contact</a></li>
       </ul>
 
       <div className="nav-auth">

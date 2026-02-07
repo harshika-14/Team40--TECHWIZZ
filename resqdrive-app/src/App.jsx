@@ -6,6 +6,7 @@ import Login from './components/login'
 import Signup from './components/signup'
 import Features from './components/features'
 import HowItWorks from './components/HowItWorks'
+import Contact from './components/Contact'
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       </Routes>
       <Features />
       <HowItWorks />
+      <Contact />
     </Router>
   )
 }
